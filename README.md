@@ -55,7 +55,7 @@ Siga as instruções abaixo para rodar a aplicação em seu ambiente de desenvol
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/KaioSimeao/gdev-frontend-test.git](https://github.com/KaioSimeao/gdev-frontend-test.git)
+git clone https://github.com/KaioSimeao/gdev-frontend-test.git
 ```
 
 2. Acesse a pasta do projeto:
